@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "L:\\THINK-QURAN\\think-alquran\\logs\\.6fb28631362c4d920d222d12a94a6d32b47690f3-audit.json",
+    "files": [
+        {
+            "date": 1760550204653,
+            "name": "L:\\THINK-QURAN\\think-alquran\\logs\\mcp-puppeteer-2025-10-16.log",
+            "hash": "20fd76b60f285699046fc90b01ee0124a6ef55fb4b5b9898c93cecddb19ddcbf"
+        }
+    ],
+    "hashType": "sha256"
+}
