@@ -12,6 +12,7 @@ import uuid
 from datetime import datetime, timedelta
 import bcrypt
 import jwt
+from jwt.exceptions import ExpiredSignatureError, InvalidTokenError
 from bson import ObjectId
 
 ROOT_DIR = Path(__file__).parent
