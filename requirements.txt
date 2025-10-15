@@ -67,19 +67,3 @@ tzdata==2025.2
 urllib3==2.5.0
 uvicorn==0.25.0
 watchfiles==1.1.0
-
-# Revolutionary AI & Advanced Features Dependencies
-httpx==0.25.2
-aiofiles==24.1.0
-python-bidi==0.4.2
-arabic-reshaper==3.0.0
-pillow==10.4.0
-speechrecognition==3.10.4
-pyaudio==0.2.14
-transformers==4.46.3
-torch==2.5.1
-librosa==0.10.2
-openai==1.54.5
-anthropic==0.40.0
-scikit-learn==1.5.1
-scipy==1.14.1
