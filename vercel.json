@@ -33,6 +33,12 @@
   "env": {
     "MONGO_URL": "@mongo_url",
     "DB_NAME": "@db_name",
-    "JWT_SECRET_KEY": "@jwt_secret_key"
+    "JWT_SECRET_KEY": "@jwt_secret_key",
+    "OPENAI_API_KEY": "@openai_api_key"
+  },
+  "build": {
+    "env": {
+      "PYTHON_VERSION": "3.9"
+    }
   }
 }
